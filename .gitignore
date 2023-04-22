@@ -1,0 +1,7 @@
+#for mac
+*/.DS_Stroe
+.DS_Store
+
+#for jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints
